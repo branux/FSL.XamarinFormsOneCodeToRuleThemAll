@@ -70,7 +70,7 @@ References:
 Licence:
 ---
 
-- [Licence MIT][4]
+- Licence MIT
 
 
 [1]:https://github.com/fabiosilvalima/FSL.ButtonBorderAndRadiusInXamarinForms

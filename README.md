@@ -7,6 +7,8 @@ There a lot of mobile devices for three platforms:
 - iOS. 9% of devices, Objective-C programming language. You will need a MAC.
 - Windows Phone. 1% of devices, C# programming language.
 
+![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/one-code-to-rule-them-all.png)
+
 Let’s face a major problem:
 
 *"I am a C# developer and I want to create a mobile app for all platforms but I don’t program in Objective-C or Java and I don’t want to spend time and money with that. How Xamarin Forms could help me?"*
@@ -70,7 +72,7 @@ References:
 Licence:
 ---
 
-- Licence MIT
+- [Licence MIT][4]
 
 
 [1]:https://github.com/fabiosilvalima/FSL.ButtonBorderAndRadiusInXamarinForms

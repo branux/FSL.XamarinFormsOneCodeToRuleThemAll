@@ -2,12 +2,20 @@
 
 **Xamarin Forms: one code to rule them all**
 
+> **FULL ARTICLE:**
+>
+> English: https://fabiosilvalima.net/en/xamarin-forms-one-code-rule-them-all/
+>
+> Português: https://fabiosilvalima.net/xamarin-forms-um-codigo-para-controlar/
+
+---
+
 There a lot of mobile devices for three platforms:
 - Android. 90% of devices, Java programming language.
 - iOS. 9% of devices, Objective-C programming language. You will need a MAC.
 - Windows Phone. 1% of devices, C# programming language.
 
-![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/one-code-to-rule-them-all.png)
+![enter image description here](https://fabiosilvalima.net/wp-content/uploads/2017/01/fabiosilvalima-xamarin-forms-um-codigo-que-controla-todos-os-outros.jpg)
 
 Let’s face a major problem:
 
@@ -23,7 +31,7 @@ Using Xamarin.Droid or Xamarin.iOS for mobile user interface you will need to wr
 
 They call that of traditional Xamarin aproach:
 
-![traditional Xamarin aproach](https://fabiosilvalima.files.wordpress.com/2016/11/xamarin-traditional.png)
+![traditional Xamarin aproach](https://fabiosilvalima.net/wp-content/uploads/2016/11/xamarin-traditional.png)
 
 *"Oh gosh! Write two mobile user interfaces?? Is there a another or a better way?"*
 
@@ -33,7 +41,7 @@ You can use Xamarin.Forms to write only one code and run your app in iOS and And
 
 They call that of Xamarin Forms aproach:
 
-![Xamarin Forms aproach](https://fabiosilvalima.files.wordpress.com/2016/11/xamarin-forms.png)
+![Xamarin Forms aproach](https://fabiosilvalima.net/wp-content/uploads/2016/11/xamarin-forms.png)
 
 <em>"I don't believe, it's magic, just one code to rule them all!"</em>
 
@@ -51,7 +59,7 @@ When you create a Xamarin Forms project (Cross-mobile) using Visual Studio, it c
 
 Solution structure:
 
-![Solution structure](https://fabiosilvalima.files.wordpress.com/2016/11/xamarinproject.png)
+![Solution structure](https://fabiosilvalima.net/wp-content/uploads/2016/11/xamarinproject.png)
 
 Just for understanding, imagine Xamarin.Forms like a reusable DLL and Xamarin.iOS and Xamarin.Droid projects like web projects that references that reusable DLL. In web programming, you deploy the web project and for Xamarin it's the same, you deploy Xamarin.Droid and Xamarin.iOS for respective devices.
 
@@ -75,6 +83,6 @@ Licence:
 - [Licence MIT][4]
 
 
-[1]:https://github.com/fabiosilvalima/FSL.ButtonBorderAndRadiusInXamarinForms
-[2]: https://fabiosilvalima.wordpress.com/2016/11/10/visual-studio-2015-xamarin-forms-install-and-config/
-[3]:https://fabiosilvalima.wordpress.com/2016/11/10/visual-studio-2015-xamarin-forms-install-and-config/
+[1]: https://github.com/fabiosilvalima/FSL.ButtonBorderAndRadiusInXamarinForms
+[2]: https://fabiosilvalima.net/configuracao-xamarin-visual-studio-2015/
+[3]: https://fabiosilvalima.net/configuracao-xamarin-visual-studio-2015/
